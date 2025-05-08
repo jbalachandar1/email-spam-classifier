@@ -10,9 +10,7 @@ A simple Natural Language Processing (NLP) project that builds a binary classifi
 - [Usage](#usage)  
   - [Training and Evaluation](#training-and-evaluation)  
   - [Manual Testing](#manual-testing)  
-- [Results](#results)  
-- [Project Structure](#project-structure)  
-- [Contributing](#contributing)  
+- [Results](#results) 
 
 
 ## Features
@@ -114,27 +112,4 @@ print(predict_spam(sample_email))  # spam
 weighted avg       1.00      1.00      1.00       200
 ```
 
-## Project Structure
 
-```
-email-spam-classifier/
-├── data/
-│   └── spam_mail_classifier.csv
-├── docs/
-│   └── confusion_matrix.png
-├── src/
-│   └── classifier.py      # main training & inference code
-├── requirements.txt
-└── README.md
-```
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/xyz`)
-3. Commit your changes (`git commit -m 'Add feature xyz'`)
-4. Push to your branch (`git push origin feature/xyz`)
-5. Open a pull request
-
-```
-```
