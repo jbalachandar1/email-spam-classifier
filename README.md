@@ -36,7 +36,7 @@ A simple Natural Language Processing (NLP) project that builds a binary classifi
 1. Clone the repository:  
    ```bash
    git clone https://github.com/jbalachandar1/email-spam-classifier.git
-   cd spam-email-classifier
+   cd email-spam-classifier
 
 
 2. (Optional) Create and activate a virtual environment:
@@ -117,7 +117,7 @@ weighted avg       1.00      1.00      1.00       200
 ## Project Structure
 
 ```
-spam-email-classifier/
+email-spam-classifier/
 ├── data/
 │   └── spam_mail_classifier.csv
 ├── docs/
