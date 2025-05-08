@@ -4,7 +4,6 @@ A simple Natural Language Processing (NLP) project that builds a binary classifi
 
 ## Table of Contents
 
-- [Demo](#demo)  
 - [Features](#features)  
 - [Dataset](#dataset)  
 - [Installation](#installation)  
@@ -15,10 +14,6 @@ A simple Natural Language Processing (NLP) project that builds a binary classifi
 - [Project Structure](#project-structure)  
 - [Contributing](#contributing)  
 
-## Demo
-
-![Confusion Matrix Placeholder](docs/confusion_matrix.png)  
-*Figure 1: Confusion matrix on test data.*
 
 ## Features
 
@@ -35,7 +30,6 @@ A simple Natural Language Processing (NLP) project that builds a binary classifi
   - `email_text` (string)  
   - `label` (`ham` or `spam`)  
 
-You can replace this with your own CSV of labeled emails.
 
 ## Installation
 
