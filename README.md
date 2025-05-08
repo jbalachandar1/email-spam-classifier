@@ -43,7 +43,7 @@ You can replace this with your own CSV of labeled emails.
    ```bash
    git clone https://github.com/<your-username>/spam-email-classifier.git
    cd spam-email-classifier
-````
+
 
 2. (Optional) Create and activate a virtual environment:
 
